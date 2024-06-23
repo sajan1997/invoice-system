@@ -1,4 +1,4 @@
-package com.system.invoice_system_service;
+package com.system.invoicesystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

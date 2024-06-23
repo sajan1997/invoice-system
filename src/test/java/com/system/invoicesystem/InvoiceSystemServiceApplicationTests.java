@@ -1,4 +1,4 @@
-package com.system.invoice_system_service;
+package com.system.invoicesystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
